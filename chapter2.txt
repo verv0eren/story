@@ -1,1 +1,3 @@
-this is the chapter 2 of the world.
+/// ------------------- CHAPTER 2 -----------------//
+
+	In the beginning, things were little confusing, but as time went on, due to his immense curiosity and tinkering mind, he become more and more proficients in the matters of Cyberland.
